@@ -11,11 +11,11 @@ page 50110 Matriculas
         {
             repeater(GroupName)
             {
-                field(Curso; Rec.Curso)
+                field(Estudiante; Rec.Estudiante)
                 {
                     ApplicationArea = All;
                 }
-                field(Estudiantes; Rec.Estudiante)
+                field(Curso; Rec.Curso)
                 {
                     ApplicationArea = All;
                 }

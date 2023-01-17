@@ -6,17 +6,16 @@
             "request": "launch",
             "type": "al",
             "environmentType": "OnPrem",
-            "server": "http://localhost",
+            "server": "http://bcserver",
             "serverInstance": "BC200",
-            "authentication": "Windows",
-            "startupObjectId": 50111,
+            "authentication": "UserPassword",
+            "startupObjectId": 22,
             "startupObjectType": "Page",
             "breakOnError": "All",
             "launchBrowser": true,
             "enableLongRunningSqlStatements": true,
             "enableSqlInformationDebugger": true,
-            "tenant": "default",
-            "schemaUpdateMode":"ForceSync"
+            "tenant": "default"
         }
     ]
 }

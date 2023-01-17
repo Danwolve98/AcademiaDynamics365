@@ -15,6 +15,26 @@ page 50111 Cursos
                 {
                     ApplicationArea = All;
                 }
+                field(Descripción; Rec.Descripción)
+                {
+                    ApplicationArea = All;
+                }
+                field("Horas Totales"; Rec."Horas Totales")
+                {
+                    ApplicationArea = All;
+                }
+                field("Tarifa de laboratorio"; Rec."Tarifa de laboratorio")
+                {
+                    ApplicationArea = All;
+                }
+                field("Profesor"; Rec.Profesor)
+                {
+                    ApplicationArea = All;
+                }
+                field(Departamento; Rec.Departamento)
+                {
+                    ApplicationArea = All;
+                }
             }
         }
         area(Factboxes)

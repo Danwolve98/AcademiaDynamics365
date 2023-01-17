@@ -11,11 +11,11 @@ page 50115 Horarios
         {
             repeater(GroupName)
             {
-                field(Curso; Rec.Curso)
+                field(Dia; Rec.Dia)
                 {
                     ApplicationArea = All;
                 }
-                field(Dia; Rec.Dia)
+                field(Curso; Rec.Curso)
                 {
                     ApplicationArea = All;
                 }

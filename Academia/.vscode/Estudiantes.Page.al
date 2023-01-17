@@ -11,11 +11,27 @@ page 50112 Estudiantes
         {
             repeater(GroupName)
             {
+                field(Id; Rec.Id)
+                {
+                    ApplicationArea = All;
+                }
                 field(Nombre; Rec.Nombre)
                 {
                     ApplicationArea = All;
                 }
-                field(Id; Rec.Id)
+                field(Sexo; Rec.Sexo)
+                {
+                    ApplicationArea = All;
+                }
+                field("Dirección"; Rec."Dirección")
+                {
+                    ApplicationArea = All;
+                }
+                field("Telefono"; Rec.Telefono)
+                {
+                    ApplicationArea = All;
+                }
+                field("Fecha de Nacimiento"; Rec."Fecha de Nacimiento")
                 {
                     ApplicationArea = All;
                 }

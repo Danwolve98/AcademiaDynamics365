@@ -1,4 +1,4 @@
-table 50108 "NoDocente"
+table 50108 "No Docente"
 {
     DataClassification = ToBeClassified;
     Caption = 'No Docente';
@@ -27,6 +27,11 @@ table 50108 "NoDocente"
         }
         field(5; Puesto; Text[20])
         {
+            DataClassification = ToBeClassified;
+        }
+        field(6; "Profesor a cargo"; Integer)
+        {
+            TableRelation = Profesores;
             DataClassification = ToBeClassified;
         }
     }

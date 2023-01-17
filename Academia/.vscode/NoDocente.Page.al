@@ -1,9 +1,9 @@
-page 50114 Profesores
+page 50116 "No Docente"
 {
     PageType = List;
     ApplicationArea = All;
     UsageCategory = Lists;
-    SourceTable = Profesores;
+    SourceTable = "No Docente";
 
     layout
     {
@@ -23,27 +23,15 @@ page 50114 Profesores
                 {
                     ApplicationArea = All;
                 }
-                field("Fecha de Contratacion"; Rec."Fecha de Contratacion")
-                {
-                    ApplicationArea = All;
-                }
                 field(Salario; Rec.Salario)
                 {
                     ApplicationArea = All;
                 }
-                field(Departamento; Rec.Departamento)
+                field(Puesto; Rec.Puesto)
                 {
                     ApplicationArea = All;
                 }
-                field(" Num. Ayudantes"; Rec." Num. Ayudantes")
-                {
-                    ApplicationArea = All;
-                }
-                field(" Num. Cursos"; Rec." Num. Cursos")
-                {
-                    ApplicationArea = All;
-                }
-                field("Despacho de departamento"; Rec."Despacho de departamento")
+                field("Profesor a cargo"; Rec."Profesor a cargo")
                 {
                     ApplicationArea = All;
                 }
@@ -52,6 +40,22 @@ page 50114 Profesores
         area(Factboxes)
         {
 
+        }
+    }
+
+    actions
+    {
+        area(Processing)
+        {
+            action(ActionName)
+            {
+                ApplicationArea = All;
+
+                trigger OnAction();
+                begin
+
+                end;
+            }
         }
     }
 }

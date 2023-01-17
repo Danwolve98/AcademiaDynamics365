@@ -23,6 +23,10 @@ page 50113 Departamentos
                 {
                     ApplicationArea = All;
                 }
+                field("Tarifa media"; Rec."Tarifa media")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
         area(Factboxes)

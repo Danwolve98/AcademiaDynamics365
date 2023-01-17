@@ -20,6 +20,13 @@ table 50107 Departamentos
             TableRelation = Profesores;
             DataClassification = ToBeClassified;
         }
+        field(4; "Tarifa media"; Decimal)
+        {
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = average(Cursos."Tarifa de laboratorio" where(Departamento = field(Nombre)));
+        }
+
     }
 
     keys

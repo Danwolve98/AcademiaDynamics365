@@ -29,6 +29,11 @@ table 50110 Cursos
             TableRelation = Profesores;
             DataClassification = ToBeClassified;
         }
+        field(6; Departamento; Text[20])
+        {
+            TableRelation = Departamentos;
+            DataClassification = ToBeClassified;
+        }
     }
 
     keys
