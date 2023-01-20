@@ -38,7 +38,7 @@ table 50106 Profesores
         {
             Editable = false;
             FieldClass = FlowField;
-            CalcFormula = count("No Docente" where("Profesor a cargo" = field(Id), Puesto = "Ayudante"));
+            CalcFormula = count("No Docente" where("Profesor a cargo" = field(Id), Puesto = const('Ayudante')));
         }
         field(8; " Num. Cursos"; Integer)
         {
@@ -48,21 +48,7 @@ table 50106 Profesores
             /*= field("Filtro dia")));*/
 
         }
-
-        field(10; "Despacho de departamento"; Code[5])
-        {
-            Editable = false;
-            FieldClass = FlowField;
-            CalcFormula = lookup(Departamentos.Despacho where(Nombre = field(Departamento),
-                                                        Despacho = field("Filtro despacho")));
-        }
-
-
-        field(9; "Filtro dia"; Enum DiasSemana)
-        {
-            FieldClass = FlowFilter;
-        }
-        field(11; "Filtro despacho"; Code[5])
+        field(109; "Filtro dia"; Enum DiasSemana)
         {
             FieldClass = FlowFilter;
         }

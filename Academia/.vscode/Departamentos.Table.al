@@ -27,6 +27,18 @@ table 50107 Departamentos
             CalcFormula = average(Cursos."Tarifa de laboratorio" where(Departamento = field(Nombre)));
         }
 
+        field(5; "Max salario"; Decimal)
+        {
+            Editable = false;
+            FieldClass = FlowField;
+            CalcFormula = max(Profesores.Salario where(Departamento = field(Nombre), "Fecha de Contratacion" = field("Fecha de contratacion Filtro")));
+        }
+
+        field(100; "Fecha de contratacion Filtro"; Date)
+        {
+            FieldClass = FlowFilter;
+        }
+
     }
 
     keys

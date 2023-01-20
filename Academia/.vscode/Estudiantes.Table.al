@@ -29,7 +29,7 @@ table 50109 Estudiantes
             Numeric = true;
             DataClassification = ToBeClassified;
         }
-        field(6; "Fecha de Nacimiento"; Text[20])
+        field(6; "Fecha de Nacimiento"; Date)
         {
             DataClassification = ToBeClassified;
         }

@@ -27,6 +27,11 @@ page 50113 Departamentos
                 {
                     ApplicationArea = All;
                 }
+
+                field("Max Salario"; Rec."Max salario")
+                {
+                    ApplicationArea = All;
+                }
             }
         }
         area(Factboxes)

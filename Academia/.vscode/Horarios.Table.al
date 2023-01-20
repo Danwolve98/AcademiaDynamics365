@@ -5,22 +5,29 @@ table 50112 Horarios
 
     fields
     {
-        field(1; Dia; Enum DiasSemana)
+        field(1; Id; Integer)
+        {
+            AutoIncrement = true;
+            Editable = false;
+            DataClassification = ToBeClassified;
+
+        }
+        field(2; Dia; Enum DiasSemana)
         {
             DataClassification = ToBeClassified;
 
         }
-        field(2; Curso; Text[40])
+        field(3; Curso; Text[40])
         {
             TableRelation = Cursos;
             DataClassification = ToBeClassified;
 
         }
-        field(3; "Hora de inicio"; Time)
+        field(4; "Hora de inicio"; Time)
         {
             DataClassification = ToBeClassified;
         }
-        field(4; "Hora de finalización"; Time)
+        field(5; "Hora de finalización"; Time)
         {
             DataClassification = ToBeClassified;
         }
@@ -28,7 +35,7 @@ table 50112 Horarios
 
     keys
     {
-        key(pk; Dia, Curso)
+        key(pk; Id)
         {
             Clustered = true;
         }

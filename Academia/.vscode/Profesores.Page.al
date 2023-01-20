@@ -43,10 +43,6 @@ page 50114 Profesores
                 {
                     ApplicationArea = All;
                 }
-                field("Despacho de departamento"; Rec."Despacho de departamento")
-                {
-                    ApplicationArea = All;
-                }
             }
         }
         area(Factboxes)
