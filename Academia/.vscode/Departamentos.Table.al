@@ -12,13 +12,23 @@ table 50107 Departamentos
         }
         field(2; Despacho; Code[5])
         {
-            CharAllowed = 'AAZZ';
             DataClassification = ToBeClassified;
+
+            trigger OnValidate()
+            var
+                Matches: Record Matches;
+                Regex: Codeunit Regex;
+                Pattern,
+                Value : Text;
+            begin
+                Pattern := '[A-Z]{3}\d{2}';
+                if not Regex.IsMatch(Despacho, Pattern, 0) then Message('El patrón debe ser LAB01');
+            end;
         }
         field(3; "Jefe de departamento"; Integer)
         {
-            TableRelation = Profesores;
-            DataClassification = ToBeClassified;
+            Editable = false;
+            TableRelation = Profesores.Id where(Departamento = field(Nombre), "Jefe Departamento" = const(true));
         }
         field(4; "Tarifa media"; Decimal)
         {

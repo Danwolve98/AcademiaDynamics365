@@ -34,13 +34,17 @@ table 50106 Profesores
             TableRelation = Departamentos;
             DataClassification = ToBeClassified;
         }
-        field(7; " Num. Ayudantes"; Integer)
+        field(7; "Jefe Departamento"; Boolean)
+        {
+            DataClassification = ToBeClassified;
+        }
+        field(8; " Num. Ayudantes"; Integer)
         {
             Editable = false;
             FieldClass = FlowField;
             CalcFormula = count("No Docente" where("Profesor a cargo" = field(Id), Puesto = const('Ayudante')));
         }
-        field(8; " Num. Cursos"; Integer)
+        field(9; " Num. Cursos"; Integer)
         {
             Editable = false;
             FieldClass = FlowField;

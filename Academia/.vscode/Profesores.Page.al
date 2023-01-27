@@ -35,6 +35,10 @@ page 50114 Profesores
                 {
                     ApplicationArea = All;
                 }
+                field("Jefe Departamento"; Rec."Jefe Departamento")
+                {
+                    ApplicationArea = All;
+                }
                 field(" Num. Ayudantes"; Rec." Num. Ayudantes")
                 {
                     ApplicationArea = All;

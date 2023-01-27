@@ -1,33 +1,36 @@
-page 50110 Matriculas
+page 50117 "Matriculas Card Page"
 {
-    PageType = List;
+    PageType = Card;
     ApplicationArea = All;
-    UsageCategory = Lists;
+    UsageCategory = Administration;
     SourceTable = Matriculas;
 
     layout
     {
         area(Content)
         {
-            repeater(GroupName)
+            group("Información General")
             {
-                field(Estudiante; Rec.Estudiante)
+                field("Nombre Estudiante"; Rec.Estudiante)
                 {
                     ApplicationArea = All;
+
                 }
-                field(Curso; Rec.Curso)
+                field("Nombre"; Rec.Curso)
                 {
                     ApplicationArea = All;
+
                 }
-                field("Fecha y hora de matriculación"; Rec."Fecha y hora de matriculación")
+
+            }
+            group("Fecha y Hora de Matrícula")
+            {
+                field("Fecha"; Rec."Fecha y hora de matriculación")
                 {
                     ApplicationArea = All;
+
                 }
             }
-        }
-        area(Factboxes)
-        {
-
         }
     }
 
@@ -39,11 +42,14 @@ page 50110 Matriculas
             {
                 ApplicationArea = All;
 
-                trigger OnAction();
+                trigger OnAction()
                 begin
 
                 end;
             }
         }
     }
+
+    var
+        myInt: Integer;
 }
