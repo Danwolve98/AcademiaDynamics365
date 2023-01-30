@@ -1,6 +1,7 @@
 table 50110 Cursos
 {
     DataClassification = ToBeClassified;
+    LookupPageId = Cursos;
     Caption = 'Cursos';
 
     fields
@@ -42,6 +43,11 @@ table 50110 Cursos
         {
             Clustered = true;
         }
+    }
+
+    fieldgroups
+    {
+        fieldgroup(DropDown; Nombre, Departamento) { }
     }
 
 }

@@ -11,15 +11,16 @@ page 50117 "Matriculas Card Page"
         {
             group("Información General")
             {
-                field("Nombre Estudiante"; Rec.Estudiante)
+                field("Id Estudiante"; Rec.Estudiante)
                 {
                     ApplicationArea = All;
-
+                    Importance = Promoted;
                 }
-                field("Nombre"; Rec.Curso)
+
+                field("Curso "; Rec.Curso)
                 {
                     ApplicationArea = All;
-
+                    Importance = Promoted;
                 }
 
             }
@@ -36,17 +37,38 @@ page 50117 "Matriculas Card Page"
 
     actions
     {
-        area(Processing)
+        area(Navigation)
         {
-            action(ActionName)
+            group(Informacion)
             {
-                ApplicationArea = All;
-
-                trigger OnAction()
-                begin
-
-                end;
+                action("Curso")
+                {
+                    ApplicationArea = All;
+                    RunObject = page "Cursos Card Page";
+                    RunPageLink = Nombre = field(Curso);
+                    Image = BookingsLogo;
+                }
             }
+            group(Estudiante)
+            {
+                action("Datos")
+                {
+                    ApplicationArea = All;
+                    RunObject = page "Estudiantes Card Page";
+                    RunPageLink = Id = field(Estudiante);
+                    Image = Customer;
+                }
+                action("Matriculas")
+                {
+                    ApplicationArea = All;
+                    RunObject = page Matriculas;
+                    RunPageLink = Estudiante = field(Estudiante);
+                    Image = "8ball";
+                }
+            }
+
+
+
         }
     }
 

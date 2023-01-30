@@ -64,6 +64,11 @@ table 50106 Profesores
         {
             Clustered = true;
         }
+
+    }
+    fieldgroups
+    {
+        fieldgroup(DropDown; Nombre, Id) { }
     }
 
 }

@@ -1,19 +1,20 @@
-page 50111 Cursos
+page 50118 "Cursos Card Page"
 {
-    PageType = List;
+    PageType = Card;
     ApplicationArea = All;
-    UsageCategory = Lists;
+    UsageCategory = Administration;
     SourceTable = Cursos;
 
     layout
     {
         area(Content)
         {
-            repeater(GroupName)
+            group(General)
             {
                 field(Nombre; Rec.Nombre)
                 {
                     ApplicationArea = All;
+                    Importance = Promoted;
                 }
                 field(Descripción; Rec.Descripción)
                 {
@@ -27,35 +28,31 @@ page 50111 Cursos
                 {
                     ApplicationArea = All;
                 }
+            }
+
+            group("Profesor asociado")
+            {
                 field("Profesor"; Rec.Profesor)
                 {
                     ApplicationArea = All;
+                    Importance = Promoted;
                 }
                 field(Departamento; Rec.Departamento)
                 {
                     ApplicationArea = All;
+                    Importance = Promoted;
                 }
             }
-        }
-        area(Factboxes)
-        {
-
         }
     }
 
     actions
     {
-        area(Processing)
+        area(Navigation)
         {
-            action(ActionName)
-            {
-                ApplicationArea = All;
-
-                trigger OnAction();
-                begin
-
-                end;
-            }
         }
     }
+
+    var
+        myInt: Integer;
 }

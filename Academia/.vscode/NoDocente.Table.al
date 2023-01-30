@@ -44,4 +44,9 @@ table 50108 "No Docente"
         }
     }
 
+    fieldgroups
+    {
+        fieldgroup(DropDown; Nombre, Id) { }
+    }
+
 }

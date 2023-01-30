@@ -1,6 +1,7 @@
 table 50109 Estudiantes
 {
     DataClassification = ToBeClassified;
+    LookupPageId = Estudiantes;
     Caption = 'Estudiantes';
 
     fields
@@ -41,6 +42,11 @@ table 50109 Estudiantes
         {
             Clustered = true;
         }
+    }
+
+    fieldgroups
+    {
+        fieldgroup(DropDown; Id, Nombre) { }
     }
 
 }

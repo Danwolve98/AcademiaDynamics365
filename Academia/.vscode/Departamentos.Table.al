@@ -28,7 +28,7 @@ table 50107 Departamentos
         field(3; "Jefe de departamento"; Integer)
         {
             Editable = false;
-            TableRelation = Profesores.Id where(Departamento = field(Nombre), "Jefe Departamento" = const(true));
+            TableRelation = Profesores where(Nombre = field(Nombre), "Jefe Departamento" = const(true));
         }
         field(4; "Tarifa media"; Decimal)
         {
@@ -57,6 +57,11 @@ table 50107 Departamentos
         {
             Clustered = true;
         }
+    }
+
+    fieldgroups
+    {
+        fieldgroup(DropDown; Nombre, "Jefe de departamento") { }
     }
 
 }
