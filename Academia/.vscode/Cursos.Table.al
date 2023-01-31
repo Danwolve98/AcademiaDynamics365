@@ -35,6 +35,11 @@ table 50110 Cursos
             TableRelation = Departamentos;
             DataClassification = ToBeClassified;
         }
+        field(7; "Total Alumnos"; Integer)
+        {
+            CalcFormula = count(Matriculas where(Curso = field(Nombre)));
+            FieldClass = FlowField;
+        }
     }
 
     keys

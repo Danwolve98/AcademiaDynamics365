@@ -5,6 +5,7 @@ page 50118 "Cursos Card Page"
     UsageCategory = Administration;
     SourceTable = Cursos;
 
+
     layout
     {
         area(Content)
@@ -42,6 +43,13 @@ page 50118 "Cursos Card Page"
                     ApplicationArea = All;
                     Importance = Promoted;
                 }
+            }
+        }
+        area(FactBoxes)
+        {
+            part("Información extra"; "Cursos FactBox Page")
+            {
+                ApplicationArea = All;
             }
         }
     }

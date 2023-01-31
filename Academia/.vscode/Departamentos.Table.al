@@ -1,6 +1,7 @@
 table 50107 Departamentos
 {
     DataClassification = ToBeClassified;
+    LookupPageId = Departamentos;
     Caption = 'Departamentos';
 
     fields
@@ -27,8 +28,9 @@ table 50107 Departamentos
         }
         field(3; "Jefe de departamento"; Integer)
         {
-            Editable = false;
-            TableRelation = Profesores where(Nombre = field(Nombre), "Jefe Departamento" = const(true));
+            Editable = true;
+            //TableRelation = Profesores where(Nombre = field(Nombre), "Jefe Departamento" = const(true));
+            TableRelation = Profesores.Id;
         }
         field(4; "Tarifa media"; Decimal)
         {
