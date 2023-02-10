@@ -1,9 +1,9 @@
 page 50117 "Matriculas Card Page"
 {
     PageType = Card;
-    ApplicationArea = All;
-    UsageCategory = Administration;
+    UsageCategory = None;
     SourceTable = Matriculas;
+    Caption = 'Registration Card', comment = 'ESP="Ficha Matricula"';
 
     layout
     {
@@ -11,14 +11,17 @@ page 50117 "Matriculas Card Page"
         {
             group("Información General")
             {
+                Caption = 'General Information', comment = 'ESP="Informacion General"';
                 field("Id Estudiante"; Rec.Estudiante)
                 {
+                    Caption = 'Id Student', comment = 'ESP="Id Estudiante"';
                     ApplicationArea = All;
                     Importance = Promoted;
                 }
 
                 field("Curso "; Rec.Curso)
                 {
+                    Caption = 'Course', comment = 'ESP="Curso"';
                     ApplicationArea = All;
                     Importance = Promoted;
                 }
@@ -26,10 +29,11 @@ page 50117 "Matriculas Card Page"
             }
             group("Fecha y Hora de Matrícula")
             {
+                Caption = 'Date and time of registration', comment = 'ESP="Fecha y hora de la matricula"';
                 field("Fecha"; Rec."Fecha y hora de matriculación")
                 {
+                    Caption = 'Date', comment = 'ESP="Fecha"';
                     ApplicationArea = All;
-
                 }
             }
         }
@@ -41,8 +45,10 @@ page 50117 "Matriculas Card Page"
         {
             group(Informacion)
             {
+                Caption = 'Information', comment = 'ESP="Informacion"';
                 action("Curso")
                 {
+                    Caption = 'Course', comment = 'ESP="Curso"';
                     ApplicationArea = All;
                     RunObject = page "Cursos Card Page";
                     RunPageLink = Nombre = field(Curso);
@@ -51,8 +57,10 @@ page 50117 "Matriculas Card Page"
             }
             group(Estudiante)
             {
+                Caption = 'Student', comment = 'ESP="Estudiante"';
                 action("Datos")
                 {
+                    Caption = 'Data', comment = 'ESP="Datos"';
                     ApplicationArea = All;
                     RunObject = page "Estudiantes Card Page";
                     RunPageLink = Id = field(Estudiante);
@@ -60,6 +68,7 @@ page 50117 "Matriculas Card Page"
                 }
                 action("Matriculas")
                 {
+                    Caption = 'Tuitions', comment = 'ESP="Matriculas"';
                     ApplicationArea = All;
                     RunObject = page Matriculas;
                     RunPageLink = Estudiante = field(Estudiante);

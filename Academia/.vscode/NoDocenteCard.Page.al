@@ -1,32 +1,38 @@
-page 50116 "No Docente"
+page 50132 "No Docente Card Page"
 {
-    PageType = List;
-    ApplicationArea = All;
-    UsageCategory = Lists;
+    PageType = Card;
+    UsageCategory = None;
+    Caption = 'Non-Teaching Card', comment = 'ESP="Ficha No Docente"';
     SourceTable = "No Docente";
-    Caption = 'Non-Teaching List', comment = 'ESP="Lista no Docente"';
 
     layout
     {
         area(Content)
         {
-            repeater(GroupName)
+            group(General)
             {
+                Caption = 'Group', comment = 'ESP="Grupo"';
                 field(Id; Rec.Id)
                 {
                     Caption = 'Id', comment = 'ESP="Id"';
                     ApplicationArea = All;
+                    Importance = Promoted;
                 }
                 field(Nombre; Rec.Nombre)
                 {
                     Caption = 'Name', comment = 'ESP="Nombre"';
                     ApplicationArea = All;
+                    Importance = Promoted;
                 }
                 field(Direccion; Rec.Direccion)
                 {
                     Caption = 'Address', comment = 'ESP="Direccion"';
                     ApplicationArea = All;
                 }
+            }
+            group(Laboral)
+            {
+                Caption = 'Labor', comment = 'ESP="Laboral"';
                 field(Salario; Rec.Salario)
                 {
                     Caption = 'Salary', comment = 'ESP="Salario"';
@@ -34,23 +40,26 @@ page 50116 "No Docente"
                 }
                 field(Puesto; Rec.Puesto)
                 {
-                    Caption = 'Position', comment = 'ESP="Puesto"';
+                    Caption = 'Num. Helpers', comment = 'ESP="Num. Ayudantes"';
                     ApplicationArea = All;
                 }
                 field("Profesor a cargo"; Rec."Profesor a cargo")
                 {
-                    Caption = 'Teacher in charge', comment = 'ESP="Profesor a cargo"';
+                    Caption = '', comment = 'ESP="Profesor a cargo"';
                     ApplicationArea = All;
                 }
+                //////////////////////////////////////////////////////////////////////////////////////////
             }
-        }
-        area(Factboxes)
-        {
-
         }
     }
 
     actions
     {
+        area(Processing)
+        {
+        }
     }
+
+    var
+        myInt: Integer;
 }

@@ -1,9 +1,9 @@
-page 50120 "Cursos FactBox Page"
+page 50129 "Cursos FactBoxPage"
 {
     PageType = ListPart;
     UsageCategory = None;
     SourceTable = Cursos;
-    Caption = 'Detalles de Curso';
+    Caption = 'Course Details', comment = 'ESP="Detalles de Curso"';
 
     layout
     {
@@ -11,13 +11,11 @@ page 50120 "Cursos FactBox Page"
         {
             group(Detalles)
             {
+                Caption = 'Details', comment = 'ESP="Detalles"';
                 field("Total alumnos"; Rec."Total Alumnos")
                 {
+                    Caption = 'Total Students', comment = 'ESP="Total Alumnos"';
                     ApplicationArea = All;
-                    trigger OnDrillDown()
-                    begin
-                        Page.Run(Page::Matriculas); //Falta iltrar la lista por pk de curso
-                    end;
                 }
             }
         }

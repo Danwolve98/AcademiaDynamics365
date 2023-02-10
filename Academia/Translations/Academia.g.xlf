@@ -1,0 +1,1109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xliff version="1.2" xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 xliff-core-1.2-transitional.xsd">
+  <file datatype="xml" source-language="en-US" target-language="en-US" original="Academia">
+    <body>
+      <group id="body">
+        <trans-unit id="Table 3342610522 - Field 2644894095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Media Tarifas Cursos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Media Tarifas Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 796285593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Alumnnas</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Num. Alumnnas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 4212463715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Alumnnos</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Num. Alumnnos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 743105865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Estudiantes</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Num. Estudiantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 2716202170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Profesores</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Num. Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 2333076789 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>PrimaryKey</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field PrimaryKey - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 706146846 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salario Total No Docente</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Salario Total No Docente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 3342610522 - Field 4077120305 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salario Total Profesores</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cue Table Secretario - Field Salario Total Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Courses Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 2615446671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 902400413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Hours</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Horas Totales"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Horas Totales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 4181160540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Profesor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 2273373288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lab fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa de laboratorio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Tarifa de laboratorio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - Field 2497405551 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Students</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Total Alumnos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - Field Total Alumnos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1932900837 - FieldGroup 2253035989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DropDown Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="DorpDown Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Cursos - FieldGroup DropDown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departments Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Departamentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 196183225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Office</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Despacho"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Despacho - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 2015193411 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of hire</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de contratación Filtro"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Fecha de contratacion Filtro - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 366091169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Head of department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Jefe de departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Jefe de departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 1253257881 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Max Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Max salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - Field 247207055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa media"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - Field Tarifa media - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 73695723 - FieldGroup 2253035989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DropDown Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="DropDown Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Departamentos - FieldGroup DropDown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Students Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Estudiantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 1834217378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dirección"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Dirección - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 177211651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>BirthDate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de Nacimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Fecha de Nacimiento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 1703566099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gender</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sexo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Sexo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - Field 3472582580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Teléfono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - Field Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 4037491249 - FieldGroup 2253035989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>DropDown Student</source>
+          <note from="Developer" annotates="general" priority="2">ESP="DropDown Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Estudiantes - FieldGroup DropDown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Horarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Field 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Field Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Field 2104241480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Field Dia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Field 3962507760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de finalizacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Field Hora de finalización - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Field 4004971162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de inicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Field Hora de inicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 2145061093 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Horarios - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639967477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tuitions Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Table Matriculas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Matriculas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639967477 - Field 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Matriculas - Field Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639967477 - Field 911846928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Matriculas - Field Estudiante - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639967477 - Field 2932881407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Matriculas - Field Estudiante Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1639967477 - Field 2609101326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of registration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha y hora de la matriculacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Matriculas - Field Fecha y hora de matriculación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-Teaching Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla no Docente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 3376458555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher in charge</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor a cargo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Profesor a cargo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 371387620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Position</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Puesto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Puesto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - Field 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - Field Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 1050284221 - FieldGroup 2253035989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-Teaching Dropdown</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dropdown no Docente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table No Docente - FieldGroup DropDown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teachers Table</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tabla Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 1932219208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Helpers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Ayudantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field  Num. Ayudantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 1341871637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field  Num. Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 1689353213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Hire</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de Contratacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Fecha de Contratacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 1357829226 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day filter</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Filtro dia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Filtro dia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - Field 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - Field Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Table 610025218 - FieldGroup 2253035989 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teachers Dropdown</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dropdown Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Table Profesores - FieldGroup DropDown - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Property 2019332006" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New,Process,Report,Create</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nuevo,Procesar,Informe,Crear"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Property PromotedActionCategories</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secretary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Secretario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 3277457606 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student data</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Datos Estudiantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Datos Estudiantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 2644894095 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average course fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Media Tarifas Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Media Tarifas Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 796285593 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of female estudents</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Alumnas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Num. Alumnnas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 4212463715 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of male estudents</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Alumnos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Num. Alumnnos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 743105865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of estudents</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Estudiantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Num. Estudiantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 3922856207 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Workers data</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Datos Trabajadores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Datos Trabajadores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 2716202170 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Number of teachers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Num. Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 1133560694 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-Teachers Total salaries</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salarios Total No Docentes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Salarios Total No Docentes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Control 855065648 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teachers Total salaries</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salarios Total Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Control Salarios Total Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Action 1610702646 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Non-Teacher</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear No Docente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Action Create Non-Teacher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3716611552 - Action 1500157332 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Create Teacher</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Crear Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cue Card Secretario - Action Create Teacher - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Courses List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 2615446671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 902400413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Hours</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Horas Totales"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Horas Totales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 4181160540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Profesor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1932900837 - Control 2273373288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lab fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa de laboratorio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos - Control Tarifa de laboratorio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 2615446671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 902400413 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Hours</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Horas Totales"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Horas Totales - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 2273373288 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Lab fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa de laboratorio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Tarifa de laboratorio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 1584474244 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Horario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Horario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 2145061093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Horario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Horarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 1595455767 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Associated teacher Group</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo profesor asociado"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Profesor asociado - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 4181160540 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Profesor - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 514721208 - Control 1281977511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extra Information</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Información extra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Card Page - Control Información extra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1752919447 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course Details</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Detalles de Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos FactBoxPage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1752919447 - Control 1908249006 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Details</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Detalles"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos FactBoxPage - Control Detalles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1752919447 - Control 744735119 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Total Students</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Total Alumnos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos FactBoxPage - Control Total alumnos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>SubPage Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Subpágina Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Control 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Control Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Control 2615446671 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Description</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Descripción"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Control Descripción - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Action 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Action Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Action 4090056727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Datos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Action Datos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 675363560 - Action 1639967477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tuitions</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Matriculas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Cursos Subpage - Action Matriculas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Departments List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Departamentos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Control 196183225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Office</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Despacho"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Control Despacho - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Control 366091169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Head of department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Jefe de departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Control Jefe de departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Control 3443078777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Max Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Control Max Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 73695723 - Control 247207055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa media"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos - Control Tarifa media - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 491809974 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Comunication</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Comunicacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Comunicacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 196183225 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Office</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Despacho"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Despacho - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 366091169 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Head of department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Jefe de departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Jefe de departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 1932900837 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 1787655228 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Courses List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Lista Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 3443078777 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Max Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Max Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Max Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Control 247207055 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Average fee</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Tarifa media"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Control Tarifa media - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Action 831678822 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Coordinator</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Coordinador"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Action Coordinador - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1006255042 - Action 610025218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teachers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Departamentos Card Page - Action Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Estudiantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 1834217378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Dirección - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 177211651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthdate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de Nacimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Fecha de Nacimiento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 1703566099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gender</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sexo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Sexo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4037491249 - Control 3472582580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Telefono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes - Control Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 3114727786 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Communication</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Comunicacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Comunicación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 1834217378 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Addres</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Dirección - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 3472582580 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Phone Number</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Telefono"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Telefono - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General</source>
+          <note from="Developer" annotates="general" priority="2">ESP="General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 177211651 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Birthdate</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de Nacimiento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Fecha de Nacimiento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Control 1703566099 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Gender</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Sexo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Control Sexo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Action 2884955973 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Show Tuitions</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mostrar Matriculas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Action Mostrar Matrículas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4115313996 - Action 441930471 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>New Registration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nueva Matricula"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Estudiantes Card Page - Action Nueva Matrícula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2145061093 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Schedule List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Horarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Horarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2145061093 - Control 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Horarios - Control Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2145061093 - Control 2104241480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Horarios - Control Dia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2145061093 - Control 3962507760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>End Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de finalizacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Horarios - Control Hora de finalización - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2145061093 - Control 4004971162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de inicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Horarios - Control Hora de inicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1639967477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration list</source>
+          <note from="Developer" annotates="general" priority="2">ESP="List Matriculas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1639967477 - Control 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas - Control Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1639967477 - Control 911846928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas - Control Estudiante - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1639967477 - Control 2932881407 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estudiante Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas - Control Estudiante Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1639967477 - Control 2609101326 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of registration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha y hora de matriculacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas - Control Fecha y hora de matriculación - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Registration Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha Matricula"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Control 4102564387 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date and time of registration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha y hora de la matricula"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Control Fecha y Hora de Matrícula - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Control 1991915875 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Control Fecha - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Control 2641606939 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>General Information</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Informacion General"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Control Información General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Control 1819082412 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Control Curso  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Control 3287502987 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id Student</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Control Id Estudiante - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Action 911846928 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Student</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estudiante"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Action Estudiante - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Action 4090056727 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Data</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Datos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Action Datos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Action 1639967477 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tuitions</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Matriculas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Action Matriculas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Action 240497149 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Information</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Informacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Action Informacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1776229128 - Action 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Matriculas Card Page - Action Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-Teaching List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista no Docente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 3376458555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher in charge</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor a cargo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Profesor a cargo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 371387620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Position</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Puesto"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Puesto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 1050284221 - Control 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente - Control Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Non-Teaching Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha No Docente"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 3064142865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labor</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Laboral"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Laboral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 3376458555 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2">ESP="Profesor a cargo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Profesor a cargo - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 371387620 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Helpers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Ayudantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Puesto - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3660672336 - Control 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page No Docente Card Page - Control Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teachers List</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lista Profesores"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 1932219208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Helpers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Ayudantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control  Num. Ayudantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 1341871637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control  Num. Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 1689353213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Date of Hire</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Fecha de Contratacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Fecha de Contratacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 610025218 - Control 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores - Control Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher Card</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Ficha Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 2445482498 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Group</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Grupo"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control General - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 2391326462 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Address</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Direccion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Direccion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 415504711 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Id</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Id"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Id - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 814966011 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Name</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Nombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Nombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 3064142865 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Labor</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Laboral"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Laboral - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 1932219208 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Helpers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Ayudantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control  Num. Ayudantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 1341871637 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control  Num. Cursos - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 323353982 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Department</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Departamento"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Departamento - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 1689353213 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Hiring</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Contratacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Fecha de Contratacion - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 3957234133 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Salary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Salario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Salario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 3889158619 - Control 1281977511 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Extra Information</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Informacion Extra"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores Card Page - Control Información extra - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4158536300 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Teacher Details</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Detalles del Profesor"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores FactBox Page - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4158536300 - Control 1013090519 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Statistics</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Estadisticas"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores FactBox Page - Control Estadísticas - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4158536300 - Control 982781488 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Helpers</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Ayudantes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores FactBox Page - Control Num. Ayudantes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 4158536300 - Control 1020532927 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Num. Courses</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Num. Cursos"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Profesores FactBox Page - Control Num. de cursos que imparte - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000135969 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Subpage Schedules</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Subpagina Horarios"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subpágina Horarios - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000135969 - Control 4017500548 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Course</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Curso"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subpágina Horarios - Control Curso - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000135969 - Control 2104241480 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Day</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Dia"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subpágina Horarios - Control Dia - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000135969 - Control 3962507760 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Ending Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de finalizacion"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subpágina Horarios - Control Hora de finalización - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Page 2000135969 - Control 4004971162 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Start Time</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hora de inicio"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Page Subpágina Horarios - Control Hora de inicio - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2114507525 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Secretary</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Secretario"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Secretario - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Profile 2114507525 - Property 4111922599" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Perfil Secretario</source>
+          <note from="Developer" annotates="general" priority="2"></note>
+          <note from="Xliff Generator" annotates="general" priority="3">Profile Secretario - Property ProfileDescription</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Days of the week Enumeration</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Enumeracion Dias de la semana"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2">ESP=""</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 1698708158 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Thursday</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Jueves"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue Jueves - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 1219465603 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Monday</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Lunes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue Lunes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 3180509160 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Tuesday</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Martes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue Martes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 298183703 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Wednesday</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Miercoles"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue Miercoles - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 578903814 - EnumValue 808122924 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Friday</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Viernes"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum DiasSemana - EnumValue Viernes - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1703566099 - EnumValue 18652612 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source></source>
+          <note from="Developer" annotates="general" priority="2">ESP=""</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Sexo - EnumValue  - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1703566099 - EnumValue 4219751961 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Men</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Hombre"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Sexo - EnumValue Hombre - Property Caption</note>
+        </trans-unit>
+        <trans-unit id="Enum 1703566099 - EnumValue 3023696191 - Property 2879900210" size-unit="char" translate="yes" xml:space="preserve">
+          <source>Women</source>
+          <note from="Developer" annotates="general" priority="2">ESP="Mujer"</note>
+          <note from="Xliff Generator" annotates="general" priority="3">Enum Sexo - EnumValue Mujer - Property Caption</note>
+        </trans-unit>
+      </group>
+    </body>
+  </file>
+</xliff>
