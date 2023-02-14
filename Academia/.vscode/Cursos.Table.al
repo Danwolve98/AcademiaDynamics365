@@ -65,4 +65,12 @@ table 50110 Cursos
         fieldgroup(DropDown; Nombre, Departamento) { Caption = 'DropDown Course', comment = 'ESP="DorpDown Curso"'; }
     }
 
+    trigger OnDelete()
+    var
+        Horarios: Record Horarios;
+        CodeUnitHorarios: Codeunit "Horarios Codeunit";
+    begin
+        CodeUnitHorarios.OnDeleteCurso(Rec.Nombre);
+    end;
+
 }

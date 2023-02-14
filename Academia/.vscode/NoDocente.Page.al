@@ -4,6 +4,7 @@ page 50116 "No Docente"
     ApplicationArea = All;
     UsageCategory = Lists;
     SourceTable = "No Docente";
+    CardPageId = "No Docente Card Page";
     Caption = 'Non-Teaching List', comment = 'ESP="Lista no Docente"';
 
     layout

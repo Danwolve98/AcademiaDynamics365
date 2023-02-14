@@ -38,11 +38,6 @@ table 50141 "Cue Table Secretario"
             FieldClass = FlowField;
             CalcFormula = count(Estudiantes where(Sexo = const("Mujer")));
         }
-        field(8; "Media Tarifas Cursos"; Decimal)
-        {
-            FieldClass = FlowField;
-            CalcFormula = average(Cursos."Tarifa de laboratorio");
-        }
     }
 
     keys
@@ -53,27 +48,8 @@ table 50141 "Cue Table Secretario"
         }
     }
 
-    var
-        myInt: Decimal;
 
-    trigger OnInsert()
-    begin
 
-    end;
 
-    trigger OnModify()
-    begin
-
-    end;
-
-    trigger OnDelete()
-    begin
-
-    end;
-
-    trigger OnRename()
-    begin
-
-    end;
 
 }

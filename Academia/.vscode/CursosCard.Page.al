@@ -57,6 +57,7 @@ page 50118 "Cursos Card Page"
                 part("Horarios"; "Subpágina Horarios")
                 {
                     Caption = 'Schedule', comment = 'ESP="Horario"';
+                    ApplicationArea = all;
                     SubPageLink = Curso = field(Nombre);
                 }
             }
@@ -67,6 +68,7 @@ page 50118 "Cursos Card Page"
             {
                 Caption = 'Extra Information', comment = 'ESP="Información extra"';
                 ApplicationArea = All;
+                SubPageLink = Nombre = field(Nombre);
             }
         }
     }

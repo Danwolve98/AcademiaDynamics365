@@ -51,6 +51,7 @@ page 50124 "Departamentos Card Page"
                 Caption = 'Courses', comment = 'ESP="Cursos"';
                 part("Lista Cursos"; "Cursos Subpage")
                 {
+                    ApplicationArea = all;
                     Caption = 'Courses List', comment = 'ESP="Lista Cursos"';
                     SubPageLink = Departamento = field(Nombre);
                 }

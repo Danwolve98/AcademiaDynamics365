@@ -2,11 +2,7 @@ page 50130 "Cue Card Secretario"
 {
     Caption = 'Secretary', comment = 'ESP="Secretario"';
     PageType = CardPart;
-    ApplicationArea = All;
-    UsageCategory = Administration;
     SourceTable = "Cue Table Secretario";
-    PromotedActionCategories = 'New,Process,Report,Create', comment = 'ESP="Nuevo,Procesar,Informe,Crear"';
-
     layout
     {
         area(Content)
@@ -40,27 +36,21 @@ page 50130 "Cue Card Secretario"
                 Caption = 'Student data', comment = 'ESP="Datos Estudiantes"';
                 field("Num. Estudiantes"; Rec."Num. Estudiantes")
                 {
-                    Caption = 'Number of estudents', comment = 'ESP="Num. Estudiantes"';
+                    Caption = 'Number of students', comment = 'ESP="Num. Estudiantes"';
                     ApplicationArea = All;
                     DrillDownPageId = Estudiantes;
                 }
                 field("Num. Alumnnos"; Rec."Num. Alumnnos")
                 {
-                    Caption = 'Number of male estudents', comment = 'ESP="Num. Alumnos"';
+                    Caption = 'Number of male students', comment = 'ESP="Num. Alumnos"';
                     ApplicationArea = All;
                     DrillDownPageId = Estudiantes;
                 }
                 field("Num. Alumnnas"; Rec."Num. Alumnnas")
                 {
-                    Caption = 'Number of female estudents', comment = 'ESP="Num. Alumnas"';
+                    Caption = 'Number of female students', comment = 'ESP="Num. Alumnas"';
                     ApplicationArea = All;
                     DrillDownPageId = Estudiantes;
-                }
-                field("Media Tarifas Cursos"; Rec."Media Tarifas Cursos")
-                {
-                    Caption = 'Average course fee', comment = 'ESP="Media Tarifas Cursos"';
-                    ApplicationArea = All;
-                    DrillDownPageId = Cursos;
                 }
             }
         }
@@ -74,8 +64,6 @@ page 50130 "Cue Card Secretario"
             {
                 Caption = 'Create Teacher', comment = 'ESP="Crear Profesor"';
                 ApplicationArea = All;
-                Promoted = true;
-                PromotedCategory = Category4;
                 RunObject = page "Profesores Card Page";
                 RunPageMode = Create;
                 Image = PersonInCharge;
@@ -84,17 +72,22 @@ page 50130 "Cue Card Secretario"
             {
                 Caption = 'Create Non-Teacher', comment = 'ESP="Crear No Docente"';
                 ApplicationArea = All;
-                Promoted = true;
-                PromotedCategory = Category4;
                 RunObject = page "No Docente Card Page";
                 RunPageMode = Create;
                 Image = ContactPerson;
             }
+            action("Create Student")
+            {
+                Caption = 'Create Student', comment = 'ESP="Crear Estudiante"';
+                ApplicationArea = All;
+                RunObject = page "Estudiantes Card Page";
+                RunPageMode = Create;
+                Image = CoupledContactPerson;
+            }
         }
     }
 
-    var
-        myInt: Integer;
+
 
     trigger OnOpenPage()
     begin
