@@ -48,18 +48,7 @@ page 50132 "No Docente Card Page"
                     Caption = '', comment = 'ESP="Profesor a cargo"';
                     ApplicationArea = All;
                 }
-                //////////////////////////////////////////////////////////////////////////////////////////
             }
         }
     }
-
-    actions
-    {
-        area(Processing)
-        {
-        }
-    }
-
-    var
-        myInt: Integer;
 }

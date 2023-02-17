@@ -3,6 +3,7 @@ page 50141 "Secretario Role Center"
     PageType = RoleCenter;
     ApplicationArea = All;
     UsageCategory = Lists;
+    Caption = 'Role Center Secretary', comment = 'ESP="Secretario Role Center"';
 
     layout
     {
@@ -10,22 +11,27 @@ page 50141 "Secretario Role Center"
         {
             part(Headline; "Headline Secretario")
             {
+                Caption = 'Secretary Headline', comment = 'ESP="Headline Secretario"';
                 ApplicationArea = all;
             }
             part("Cue Card Secretario"; "Cue Card Secretario")
             {
+                Caption = 'Card Secretary', comment = 'ESP="Ficha Secretario"';
                 ApplicationArea = All;
             }
             part("Cue Card Cursos"; "Cue Cursos Page")
             {
+                Caption = 'Courses', comment = 'ESP="Cursos"';
                 ApplicationArea = All;
             }
             part("Profesores"; "Profesores ListPart")
             {
+                Caption = 'Teachers', comment = 'ESP="Profesores"';
                 ApplicationArea = all;
             }
             part("Departamentos"; "Departamentos ListPart")
             {
+                Caption = 'Departments', comment = 'ESP="Departamentos"';
                 ApplicationArea = all;
             }
         }
@@ -107,9 +113,9 @@ page 50141 "Secretario Role Center"
         }
         area(Sections)
         {
-
             group(Departments)
             {
+                Caption = 'Departments', comment = 'ESP="Departamentos"';
                 action("Departments3")
                 {
                     Caption = ' Departments', comment = 'ESP=" Departamentos"';
@@ -126,6 +132,7 @@ page 50141 "Secretario Role Center"
 
             group(Students)
             {
+                Caption = 'Students', comment = 'ESP="Estudiantes"';
                 action(" Students")
                 {
                     Caption = ' Students', comment = 'ESP=" Estudiantes"';
@@ -143,6 +150,7 @@ page 50141 "Secretario Role Center"
             }
             group("Non-Teachers")
             {
+                Caption = 'Non-Teachers', comment = 'ESP="Non-Teachers"';
                 action(" Non-Teachers")
                 {
                     Caption = ' Non-Teachers', comment = 'ESP=" No Docentes"';
@@ -152,6 +160,7 @@ page 50141 "Secretario Role Center"
             }
             group(Courses)
             {
+                Caption = 'Courses', comment = 'ESP="Cursos"';
                 action(" Courses")
                 {
                     Caption = ' Courses', comment = 'ESP=" Cursos"';
@@ -174,12 +183,6 @@ page 50141 "Secretario Role Center"
             }
         }
     }
-    trigger OnInit()
-    var
-        codigo: Codeunit SalariosCodeUnit;
-    begin
-        TotalSalarios := codigo.TotalSalarios();
-    end;
 
     var
         TotalSalarios: Text[100];

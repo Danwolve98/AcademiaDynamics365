@@ -17,6 +17,13 @@ page 50118 "Cursos Card Page"
                     Caption = 'Name', comment = 'ESP="Nombre"';
                     ApplicationArea = All;
                     Importance = Promoted;
+                    trigger OnValidate()
+                    var
+                        myInt: Integer;
+                    begin
+                        RellenarHorarioCursos(Rec.Nombre);
+                    end;
+
                 }
                 field(Descripción; Rec.Descripción)
                 {
@@ -37,7 +44,7 @@ page 50118 "Cursos Card Page"
 
             group("Profesor asociado")
             {
-                Caption = 'Associated teacher Group', comment = 'ESP="Grupo profesor asociado"';
+                Caption = 'Associated-teacher Group', comment = 'ESP="Grupo profesor asociado"';
                 field("Profesor"; Rec.Profesor)
                 {
                     Caption = 'Teacher', comment = 'ESP="Profesor"';
@@ -59,9 +66,12 @@ page 50118 "Cursos Card Page"
                     Caption = 'Schedule', comment = 'ESP="Horario"';
                     ApplicationArea = all;
                     SubPageLink = Curso = field(Nombre);
+                    UpdatePropagation = Both;
+
                 }
             }
         }
+
         area(FactBoxes)
         {
             part("Información extra"; "Cursos FactBoxPage")
@@ -73,13 +83,17 @@ page 50118 "Cursos Card Page"
         }
     }
 
-    actions
-    {
-        area(Navigation)
-        {
-        }
-    }
-
+    procedure RellenarHorarioCursos("Current Curso": Text[40])
     var
-        myInt: Integer;
+        HorariosPageID: Integer;
+        TableHorarios: Record Horarios;
+        PaginaHorarios: Page "Subpágina Horarios";
+    begin
+        HorariosPageID := Page::"Subpágina Horarios";
+        TableHorarios.Curso := "Current Curso";
+
+
+        PaginaHorarios.Update();
+
+    end;
 }

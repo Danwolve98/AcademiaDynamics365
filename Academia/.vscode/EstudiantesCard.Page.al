@@ -82,7 +82,4 @@ page 50119 "Estudiantes Card Page"
             }
         }
     }
-
-    var
-        myInt: Integer;
 }

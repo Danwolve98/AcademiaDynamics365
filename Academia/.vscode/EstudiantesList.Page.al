@@ -45,13 +45,5 @@ page 50112 Estudiantes
                 }
             }
         }
-        area(Factboxes)
-        {
-
-        }
-    }
-
-    actions
-    {
     }
 }

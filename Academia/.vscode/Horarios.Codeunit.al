@@ -8,9 +8,7 @@ codeunit 50120 "Horarios Codeunit"
 
         if Horarios.FindSet() then
             repeat
-                Message(IdCurso);
                 if (Horarios.Curso = IdCurso) then begin
-
                     Horarios.Delete();
                 end;
             until Horarios.Next() = 0;

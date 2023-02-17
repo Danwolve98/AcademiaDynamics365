@@ -20,13 +20,4 @@ page 50129 "Cursos FactBoxPage"
             }
         }
     }
-
-    actions
-    {
-
-    }
-
-
-    var
-        myInt: Integer;
 }

@@ -25,13 +25,4 @@ page 50123 "Profesores FactBox Page"
             }
         }
     }
-
-    actions
-    {
-        area(Processing)
-        {
-        }
-    }
-    var
-        myInt: Integer;
 }

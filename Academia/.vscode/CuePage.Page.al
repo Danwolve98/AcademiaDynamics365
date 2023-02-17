@@ -87,8 +87,6 @@ page 50130 "Cue Card Secretario"
         }
     }
 
-
-
     trigger OnOpenPage()
     begin
         Rec.Reset();
@@ -97,8 +95,6 @@ page 50130 "Cue Card Secretario"
             Rec.Insert();
         end;
     end;
-
-
 }
 
 profile "Secretario"

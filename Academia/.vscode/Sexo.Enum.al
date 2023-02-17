@@ -1,6 +1,7 @@
 enum 50101 Sexo
 {
     Extensible = true;
+    Caption = 'Gender', comment = 'ESP="Sexo"';
 
     value(0; "")
     {

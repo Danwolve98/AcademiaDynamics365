@@ -35,13 +35,5 @@ page 50110 Matriculas
                 }
             }
         }
-        area(Factboxes)
-        {
-
-        }
-    }
-
-    actions
-    {
     }
 }

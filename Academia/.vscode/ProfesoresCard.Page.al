@@ -4,7 +4,6 @@ page 50121 "Profesores Card Page"
     UsageCategory = None;
     Caption = 'Teacher Card', comment = 'ESP="Ficha Profesor"';
     SourceTable = Profesores;
-    //SourceTableView = where(Id=field()));
 
     layout
     {
@@ -73,14 +72,4 @@ page 50121 "Profesores Card Page"
             }
         }
     }
-
-    actions
-    {
-        area(Processing)
-        {
-        }
-    }
-
-    var
-        myInt: Integer;
 }

@@ -80,7 +80,4 @@ page 50117 "Matriculas Card Page"
 
         }
     }
-
-    var
-        myInt: Integer;
 }

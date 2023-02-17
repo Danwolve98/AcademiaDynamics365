@@ -20,6 +20,7 @@ page 50125 "Subpágina Horarios"
                 {
                     Caption = 'Course', comment = 'ESP="Curso"';
                     ApplicationArea = All;
+                    Editable = false;
                 }
                 field("Hora de inicio"; Rec."Hora de inicio")
                 {
@@ -32,15 +33,6 @@ page 50125 "Subpágina Horarios"
                     ApplicationArea = All;
                 }
             }
-
-
         }
     }
-
-    actions
-    {
-    }
-
-    var
-        myInt: Integer;
 }

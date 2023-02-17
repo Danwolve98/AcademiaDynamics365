@@ -55,9 +55,5 @@ page 50114 Profesores
                 }
             }
         }
-        area(Factboxes)
-        {
-
-        }
     }
 }

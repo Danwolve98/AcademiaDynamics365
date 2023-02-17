@@ -13,6 +13,7 @@ page 50116 "No Docente"
         {
             repeater(GroupName)
             {
+                Caption = 'GroupName', comment = 'ESP="Nombre Grupo"';
                 field(Id; Rec.Id)
                 {
                     Caption = 'Id', comment = 'ESP="Id"';
@@ -45,13 +46,5 @@ page 50116 "No Docente"
                 }
             }
         }
-        area(Factboxes)
-        {
-
-        }
-    }
-
-    actions
-    {
     }
 }

@@ -45,13 +45,5 @@ page 50111 Cursos
                 }
             }
         }
-        area(Factboxes)
-        {
-
-        }
-    }
-
-    actions
-    {
     }
 }

@@ -2,8 +2,7 @@ page 50136 "Departamentos ListPart"
 {
     Caption = 'Departments', comment = 'ESP="Departamentos"';
     PageType = ListPart;
-    ApplicationArea = All;
-    UsageCategory = Lists;
+    UsageCategory = None;
     CardPageId = "Departamentos Card Page";
     SourceTable = Departamentos;
 
@@ -15,35 +14,22 @@ page 50136 "Departamentos ListPart"
             {
                 field(Nombre; rec.Nombre)
                 {
+                    Caption = 'Name', comment = 'ESP="Nombre"';
                     ApplicationArea = All;
 
                 }
                 field(Despacho; Rec.Despacho)
                 {
+                    Caption = 'Office', comment = 'ESP="Despacho"';
                     ApplicationArea = All;
 
                 }
                 field("Jefe de departamento"; Rec."Jefe de departamento")
                 {
+                    Caption = 'Head of department', comment = 'ESP="Jefe de departamento"';
                     ApplicationArea = All;
 
                 }
-            }
-        }
-    }
-
-    actions
-    {
-        area(Processing)
-        {
-            action(ActionName)
-            {
-                ApplicationArea = All;
-
-                trigger OnAction();
-                begin
-
-                end;
             }
         }
     }

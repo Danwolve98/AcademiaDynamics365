@@ -82,7 +82,4 @@ page 50124 "Departamentos Card Page"
             }
         }
     }
-
-    var
-        myInt: Integer;
 }
